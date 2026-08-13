@@ -1,0 +1,9 @@
+{
+  "base_urls": {
+    "Patient": "https://hapi.fhir.org/baseR4/Patient",
+    "Encounter": "https://hapi.fhir.org/baseR4/Encounter",
+    "Observation": "https://hapi.fhir.org/baseR4/Observation",
+    "Condition": "https://hapi.fhir.org/baseR4/Condition"
+  },
+  "raw_root": "dbfs:/Volumes/workspace/default/fhir_files/raw"
+}
